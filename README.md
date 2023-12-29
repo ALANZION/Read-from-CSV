@@ -27,3 +27,4 @@ print("Number of columns:",len(df.axes[1]))
 ![Screenshot 2023-12-29 223143](https://github.com/ALANZION/Read-from-CSV/assets/145743064/bfcdcb35-c4e5-4d52-8101-9f14c243dddd)
 
 ## RESULT:
+Thus the program excuted successfully.
